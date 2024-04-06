@@ -1,0 +1,6 @@
+v1
+4
+Zdeno|Snurik|0912345678|zdeno@123456.sk
+Janko|Mrkvicka|0913456789|janko.mrkvicka@gmail.hu
+Elon|Musk|0914567891|elon.musk@abc.sk
+Test|Test2|123|email@
